@@ -1,1 +1,9 @@
-<GGM006_380mm_SKC_34.model><castsShadow>true</castsShadow><exporter>1.6</exporter><extent>4.0000</extent><materialNames /><parent>PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGM006_380mm_SKC_34_lod1</parent><nodefullVisual>PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGM006_380mm_SKC_34</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GGM006_380mm_SKC_34.model>
+<GGM006_380mm_SKC_34.model>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<extent>	4.0000	</extent>
+	<materialNames />
+	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGM006_380mm_SKC_34_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGM006_380mm_SKC_34	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGM006_380mm_SKC_34.model>

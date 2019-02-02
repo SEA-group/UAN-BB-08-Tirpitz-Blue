@@ -1,0 +1,20 @@
+<GF015_3m_Rangefinder_covered.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF015_3m_Rangefinder_covered_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF015_3m_Rangefinder_covered_mg.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/default_ao.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF015_3m_Rangefinder_covered_a.tga	</Texture>
+	</property>
+</GF015_3m_Rangefinder_covered.mfm>

@@ -1,0 +1,26 @@
+<C008_Grid_5.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	77	</Int>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/ship/default_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/ship/C008_Grid_5_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/ship/C008_Grid_5_mg.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/ship/default_ao.tga	</Texture>
+	</property>
+</C008_Grid_5.mfm>

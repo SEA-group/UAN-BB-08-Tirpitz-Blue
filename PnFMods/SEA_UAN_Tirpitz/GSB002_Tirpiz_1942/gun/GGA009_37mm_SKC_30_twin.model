@@ -1,1 +1,9 @@
-<GGA009_37mm_SKC_30_twin.model><castsShadow>false</castsShadow><exporter>1.6</exporter><extent>2.000000</extent><materialNames /><parent>PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGA009_37mm_SKC_30_twin_lod1</parent><nodefullVisual>PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGA009_37mm_SKC_30_twin</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GGA009_37mm_SKC_30_twin.model>
+<GGA009_37mm_SKC_30_twin.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<extent>	2.000000	</extent>
+	<materialNames />
+	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGA009_37mm_SKC_30_twin_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGA009_37mm_SKC_30_twin	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGA009_37mm_SKC_30_twin.model>

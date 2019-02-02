@@ -1,1 +1,8 @@
-<GGS001_150mm_SKC_28_dead_lod1.model><castsShadow>true</castsShadow><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGS001_150mm_SKC_28_dead_lod2</parent><extent>6.0000</extent><nodefullVisual>PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGS001_150mm_SKC_28_dead_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GGS001_150mm_SKC_28_dead_lod1.model>
+<GGS001_150mm_SKC_28_dead_lod1.model>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGS001_150mm_SKC_28_dead_lod2	</parent>
+	<extent>	6.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGS001_150mm_SKC_28_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGS001_150mm_SKC_28_dead_lod1.model>

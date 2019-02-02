@@ -1,1 +1,726 @@
-<GSB002_Tirpiz_1942_MidBack_ports.visual><boundingBox><min>-0.066700 -0.066700 -0.066700</min><max>0.066700 0.066700 0.066700</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>MidBack_ports</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_GC_1</identifier><transform><row0>0.000000 0.000000 1.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-1.000000 0.000000 0.000000 0.000000</row2><row3>-0.600300 0.490149 -0.569753 1.000000</row3></transform></node><node><identifier>HP_GC_2</identifier><transform><row0>0.000000 0.000000 -1.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>1.000000 0.000000 0.000000 0.000000</row2><row3>0.600300 0.490149 -0.569753 1.000000</row3></transform></node><node><identifier>HP_GD_7</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>-0.173794 0.856959 -2.303261 1.000000</row3></transform></node><node><identifier>HP_GD_8</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.173794 0.856959 -2.303261 1.000000</row3></transform></node><node><identifier>HP_GF_7</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 1.139891 -1.682163 1.000000</row3></transform></node><node><identifier>HP_GF_8</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 1.034710 -2.328822 1.000000</row3></transform></node><node><identifier>HP_GF_9</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 0.798572 -3.016327 1.000000</row3></transform></node><node><identifier>HP_GGA_14</identifier><transform><row0>0.000000 0.000000 1.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-1.000000 0.000000 0.000000 0.000000</row2><row3>-0.192779 0.844523 -1.973977 1.000000</row3></transform></node><node><identifier>HP_GGA_15</identifier><transform><row0>0.000000 0.000000 -1.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>1.000000 0.000000 0.000000 0.000000</row2><row3>0.192779 0.844523 -1.973977 1.000000</row3></transform></node><node><identifier>HP_GGA_16</identifier><transform><row0>0.000000 0.000000 1.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-1.000000 0.000000 0.000000 0.000000</row2><row3>-0.378330 0.695246 -2.071377 1.000000</row3></transform></node><node><identifier>HP_GGA_17</identifier><transform><row0>-0.010215 0.000000 -0.999948 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.999948 0.000000 -0.010215 0.000000</row2><row3>0.378322 0.695214 -2.071368 1.000000</row3></transform></node><node><identifier>HP_GGA_18</identifier><transform><row0>0.000000 0.000000 1.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-1.000000 0.000000 0.000000 0.000000</row2><row3>-0.426880 0.694129 -2.323058 1.000000</row3></transform></node><node><identifier>HP_GGA_19</identifier><transform><row0>0.000000 0.000000 -1.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>1.000000 0.000000 0.000000 0.000000</row2><row3>0.426880 0.694129 -2.323058 1.000000</row3></transform></node><node><identifier>HP_GGA_20</identifier><transform><row0>-0.707107 0.000000 0.707107 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-0.707107 0.000000 -0.707107 0.000000</row2><row3>-0.201013 0.844979 -2.663833 1.000000</row3></transform></node><node><identifier>HP_GGA_21</identifier><transform><row0>-0.707107 0.000000 -0.707107 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.707107 0.000000 -0.707107 0.000000</row2><row3>0.201013 0.844979 -2.663833 1.000000</row3></transform></node><node><identifier>HP_GGA_22</identifier><transform><row0>-0.707107 0.000000 0.707107 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-0.707107 0.000000 -0.707107 0.000000</row2><row3>-0.410437 0.693973 -2.705411 1.000000</row3></transform></node><node><identifier>HP_GGA_23</identifier><transform><row0>-0.707107 0.000000 -0.707107 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.707107 0.000000 -0.707107 0.000000</row2><row3>0.410437 0.693973 -2.705411 1.000000</row3></transform></node><node><identifier>HP_GGA_24</identifier><transform><row0>-0.707107 0.000000 0.707107 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-0.707107 0.000000 -0.707107 0.000000</row2><row3>-0.430990 0.536278 -3.111677 1.000000</row3></transform></node><node><identifier>HP_GGA_25</identifier><transform><row0>-0.707107 0.000000 -0.707107 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.707107 0.000000 -0.707107 0.000000</row2><row3>0.430990 0.536278 -3.111677 1.000000</row3></transform></node><node><identifier>HP_GGA_26</identifier><transform><row0>-0.707107 0.000000 0.707107 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-0.707107 0.000000 -0.707107 0.000000</row2><row3>-0.762430 0.389676 -4.038518 1.000000</row3></transform></node><node><identifier>HP_GGA_27</identifier><transform><row0>-0.707107 0.000000 -0.707107 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.707107 0.000000 -0.707107 0.000000</row2><row3>0.761214 0.389676 -4.037780 1.000000</row3></transform></node><node><identifier>HP_GGM_3</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 0.674523 -3.761055 1.000000</row3></transform></node><node><identifier>HP_GGS_9</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>-0.749102 0.536873 -1.016056 1.000000</row3></transform></node><node><identifier>HP_GGS_10</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.749102 0.536873 -1.016056 1.000000</row3></transform></node><node><identifier>HP_GGS_11</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>-0.939185 0.424345 -1.534074 1.000000</row3></transform></node><node><identifier>HP_GGS_12</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.939185 0.424345 -1.534074 1.000000</row3></transform></node><node><identifier>HP_GGS_13</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>-0.660127 0.536873 -2.009061 1.000000</row3></transform></node><node><identifier>HP_GGS_14</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.660127 0.536873 -2.009061 1.000000</row3></transform></node><node><identifier>HP_GGT_1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>-1.045923 0.367840 -0.999929 1.000000</row3></transform></node><node><identifier>HP_GGT_2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>1.045926 0.367840 -0.999929 1.000000</row3></transform></node><node><identifier>HP_flag_1</identifier><transform><row0>0.999351 -0.035999 0.000852 0.000000</row0><row1>0.035999 0.998231 -0.047317 0.000000</row1><row2>0.000852 0.047317 0.998880 0.000000</row2><row3>0.342933 2.479232 -1.492224 1.000000</row3></transform></node><node><identifier>HP_flag_2</identifier><transform><row0>0.999351 0.035999 -0.000852 0.000000</row0><row1>-0.035999 0.998231 -0.047317 0.000000</row1><row2>-0.000852 0.047317 0.998880 0.000000</row2><row3>-0.342933 2.479232 -1.492224 1.000000</row3></transform></node><node><identifier>HP_flag_3</identifier><transform><row0>0.993642 -0.112571 -0.002010 0.000000</row0><row1>0.112571 0.993006 0.035587 0.000000</row1><row2>-0.002010 -0.035587 0.999365 0.000000</row2><row3>0.251790 2.445576 -1.383341 1.000000</row3></transform></node><node><identifier>HP_flag_4</identifier><transform><row0>0.993642 0.112571 0.002010 0.000000</row0><row1>-0.112571 0.993006 0.035587 0.000000</row1><row2>0.002010 -0.035587 0.999365 0.000000</row2><row3>-0.251790 2.445576 -1.383341 1.000000</row3></transform></node><node><identifier>HP_flag_nation</identifier><transform><row0>0.999989 -0.004690 0.000446 0.000000</row0><row1>0.004690 0.982063 -0.188493 0.000000</row1><row2>0.000446 0.188493 0.982074 0.000000</row2><row3>-0.000459 2.686016 -1.798078 1.000000</row3></transform></node><node><identifier>HP_flag_rank</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.999971 0.007623 0.000000</row1><row2>0.000000 -0.007623 0.999971 0.000000</row2><row3>0.000000 2.970368 -1.235949 1.000000</row3></transform></node><node><identifier>MP_GTB0015</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.151612 0.413619 -2.263883</row3></transform></node><node><identifier>MP_GTB0006</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000007 0.931422 -1.227767</row3></transform></node><node><identifier>MP_GTB0014</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.915795 -2.371237</row3></transform></node><node><identifier>MP_GTB0025</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.012890 0.522686 -2.967531</row3></transform></node><node><identifier>MP_CTB0004</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.150080 0.370521 -2.244219</row3></transform></node><node><identifier>MP_GTB0027</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.201320 0.446307 -3.789761</row3></transform></node><node><identifier>MP_GTB0017</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.016229 0.868282 -2.225006</row3></transform></node><node><identifier>MP_GTB0010</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.004124 0.963034 -1.926907</row3></transform></node><node><identifier>MP_GTB0018</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.860183 -2.195823</row3></transform></node><node><identifier>MP_GTB0007</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.011934 0.884247 -2.215055</row3></transform></node><node><identifier>MP_GM604_Switch_Box_5</identifier><transform><row0>-1.143094 0.000000 -0.097418 0.000000</row0><row1>0.000000 1.147238 0.000000 0.000000</row1><row2>0.097418 0.000000 -1.143094 0.000000</row2><row3>-0.121844 0.859680 -2.127210 1.000000</row3></transform></node><node><identifier>MP_GTB0004</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.013123 0.843437 -1.999542</row3></transform></node><node><identifier>MP_GTB0019</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.027804 0.692788 -2.503334</row3></transform></node><node><identifier>MP_GTB0009</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.021147 0.614708 -2.044517</row3></transform></node><node><identifier>MP_GTB0012</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.076519 0.910161 -2.015311</row3></transform></node><node><identifier>MP_GTB0020</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.080158 0.881639 -1.860868</row3></transform></node><node><identifier>MP_GTB0002</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.000008 0.692716 -2.522093</row3></transform></node><node><identifier>MP_GTB0026</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.270333 0.510454 -3.378813</row3></transform></node><node><identifier>MP_GTB0022</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000002 0.702358 -2.542346</row3></transform></node><node><identifier>MP_GM853_Signal_Lamp</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 1.292821 -1.310592 1.000000</row3></transform></node><node><identifier>MP_GTB0011</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.011331 0.923405 -2.066976</row3></transform></node><node><identifier>MP_CTB0007</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.631718 -2.289682</row3></transform></node><node><identifier>MP_GTB0016</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.000030 0.704904 -2.046776</row3></transform></node><node><identifier>MP_CTB0002</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.001241 0.393995 -2.031705</row3></transform></node><node><identifier>MP_GM607_Manometer</identifier><transform><row0>-1.491794 0.000000 0.120754 0.000000</row0><row1>0.000000 1.496673 0.000000 0.000000</row1><row2>-0.120754 0.000000 -1.491794 0.000000</row2><row3>0.012177 0.909246 -2.119662 1.000000</row3></transform></node><node><identifier>MP_GTB0008</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 1.034332 -1.529472</row3></transform></node><node><identifier>MP_CTB0006</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.758404 -2.435419</row3></transform></node><node><identifier>MP_GTB0028</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.503714 0.545425 -2.624477</row3></transform></node><node><identifier>MP_GM020_Loading_machine_2</identifier><transform><row0>0.500000 0.000000 0.866025 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-0.866025 0.000000 0.500000 0.000000</row2><row3>0.412071 0.385778 -4.082962 1.000000</row3></transform></node><node><identifier>MP_GTB0024</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.000000 0.702834 -2.925624</row3></transform></node><node><identifier>MP_GTB0013</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.001067 0.891228 -2.370951</row3></transform></node><node><identifier>MP_GTB0003</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.000110 0.615110 -2.759068</row3></transform></node><node><identifier>MP_CTB0005</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.679880 -1.797777</row3></transform></node><node><identifier>MP_GTB0021</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 2.518883 -1.224164</row3></transform></node><node><identifier>MP_GM019_Loading_machine</identifier><transform><row0>-0.707107 0.000000 0.707107 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-0.707107 0.000000 -0.707107 0.000000</row2><row3>-0.412073 0.385778 -4.082974 1.000000</row3></transform></node><node><identifier>MP_GM024_Night_Indicator</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>-0.000900 2.107321 -1.305586 1.000000</row3></transform></node><node><identifier>MP_CTB0003</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.000217 0.398732 -2.155244</row3></transform></node><node><identifier>MP_GTB0005</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.934072 -1.682036</row3></transform></node><node><identifier>MP_GTB0023</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.697792 -2.995876</row3></transform></node><node><identifier>MP_GM856_Mastheadlight</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 2.339248 -1.213192 1.000000</row3></transform></node><node><identifier>HP_Fire_Burn_3</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 -2.561280 1.000000</row3></transform></node><node><identifier>HP_Ship_death_2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 -0.629662 1.000000</row3></transform></node></node></node></GSB002_Tirpiz_1942_MidBack_ports.visual>
+<GSB002_Tirpiz_1942_MidBack_ports.visual>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidBack_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_GC_1	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	-0.600300 0.490149 -0.569753 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GC_2	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 -1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	0.600300 0.490149 -0.569753 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GD_7	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	-0.173794 0.856959 -2.303261 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GD_8	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.173794 0.856959 -2.303261 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GF_7	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 1.139891 -1.682163 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GF_8	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 1.034710 -2.328822 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GF_9	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.798572 -3.016327 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_14	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	-0.192779 0.844523 -1.973977 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_15	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 -1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	0.192779 0.844523 -1.973977 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_16	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	-0.378330 0.695246 -2.071377 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_17	</identifier>
+				<transform>
+					<row0>	-0.010215 0.000000 -0.999948 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.999948 0.000000 -0.010215 0.000000	</row2>
+					<row3>	0.378322 0.695214 -2.071368 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_18	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	-0.426880 0.694129 -2.323058 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_19	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 -1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	0.426880 0.694129 -2.323058 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_20	</identifier>
+				<transform>
+					<row0>	-0.707107 0.000000 0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.707107 0.000000 -0.707107 0.000000	</row2>
+					<row3>	-0.201013 0.844979 -2.663833 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_21	</identifier>
+				<transform>
+					<row0>	-0.707107 0.000000 -0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.707107 0.000000 -0.707107 0.000000	</row2>
+					<row3>	0.201013 0.844979 -2.663833 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_22	</identifier>
+				<transform>
+					<row0>	-0.707107 0.000000 0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.707107 0.000000 -0.707107 0.000000	</row2>
+					<row3>	-0.410437 0.693973 -2.705411 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_23	</identifier>
+				<transform>
+					<row0>	-0.707107 0.000000 -0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.707107 0.000000 -0.707107 0.000000	</row2>
+					<row3>	0.410437 0.693973 -2.705411 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_24	</identifier>
+				<transform>
+					<row0>	-0.707107 0.000000 0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.707107 0.000000 -0.707107 0.000000	</row2>
+					<row3>	-0.430990 0.536278 -3.111677 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_25	</identifier>
+				<transform>
+					<row0>	-0.707107 0.000000 -0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.707107 0.000000 -0.707107 0.000000	</row2>
+					<row3>	0.430990 0.536278 -3.111677 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_26	</identifier>
+				<transform>
+					<row0>	-0.707107 0.000000 0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.707107 0.000000 -0.707107 0.000000	</row2>
+					<row3>	-0.762430 0.389676 -4.038518 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGA_27	</identifier>
+				<transform>
+					<row0>	-0.707107 0.000000 -0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.707107 0.000000 -0.707107 0.000000	</row2>
+					<row3>	0.761214 0.389676 -4.037780 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGM_3	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.674523 -3.761055 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGS_9	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	-0.749102 0.536873 -1.016056 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGS_10	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.749102 0.536873 -1.016056 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGS_11	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	-0.939185 0.424345 -1.534074 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGS_12	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.939185 0.424345 -1.534074 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGS_13	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	-0.660127 0.536873 -2.009061 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGS_14	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.660127 0.536873 -2.009061 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGT_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-1.045923 0.367840 -0.999929 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGT_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	1.045926 0.367840 -0.999929 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_1	</identifier>
+				<transform>
+					<row0>	0.999351 -0.035999 0.000852 0.000000	</row0>
+					<row1>	0.035999 0.998231 -0.047317 0.000000	</row1>
+					<row2>	0.000852 0.047317 0.998880 0.000000	</row2>
+					<row3>	0.342933 2.479232 -1.492224 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_2	</identifier>
+				<transform>
+					<row0>	0.999351 0.035999 -0.000852 0.000000	</row0>
+					<row1>	-0.035999 0.998231 -0.047317 0.000000	</row1>
+					<row2>	-0.000852 0.047317 0.998880 0.000000	</row2>
+					<row3>	-0.342933 2.479232 -1.492224 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_3	</identifier>
+				<transform>
+					<row0>	0.993642 -0.112571 -0.002010 0.000000	</row0>
+					<row1>	0.112571 0.993006 0.035587 0.000000	</row1>
+					<row2>	-0.002010 -0.035587 0.999365 0.000000	</row2>
+					<row3>	0.251790 2.445576 -1.383341 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_4	</identifier>
+				<transform>
+					<row0>	0.993642 0.112571 0.002010 0.000000	</row0>
+					<row1>	-0.112571 0.993006 0.035587 0.000000	</row1>
+					<row2>	0.002010 -0.035587 0.999365 0.000000	</row2>
+					<row3>	-0.251790 2.445576 -1.383341 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_nation	</identifier>
+				<transform>
+					<row0>	0.999989 -0.004690 0.000446 0.000000	</row0>
+					<row1>	0.004690 0.982063 -0.188493 0.000000	</row1>
+					<row2>	0.000446 0.188493 0.982074 0.000000	</row2>
+					<row3>	-0.000459 2.686016 -1.798078 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_rank	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999971 0.007623 0.000000	</row1>
+					<row2>	0.000000 -0.007623 0.999971 0.000000	</row2>
+					<row3>	0.000000 2.970368 -1.235949 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0015	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.151612 0.413619 -2.263883	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0006	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000007 0.931422 -1.227767	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0014	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.915795 -2.371237	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0025	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.012890 0.522686 -2.967531	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0004	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.150080 0.370521 -2.244219	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0027	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.201320 0.446307 -3.789761	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0017	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.016229 0.868282 -2.225006	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0010	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.004124 0.963034 -1.926907	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0018	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.860183 -2.195823	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0007	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.011934 0.884247 -2.215055	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM604_Switch_Box_5	</identifier>
+				<transform>
+					<row0>	-1.143094 0.000000 -0.097418 0.000000	</row0>
+					<row1>	0.000000 1.147238 0.000000 0.000000	</row1>
+					<row2>	0.097418 0.000000 -1.143094 0.000000	</row2>
+					<row3>	-0.121844 0.859680 -2.127210 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0004	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.013123 0.843437 -1.999542	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0019	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.027804 0.692788 -2.503334	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0009	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.021147 0.614708 -2.044517	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0012	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.076519 0.910161 -2.015311	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0020	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.080158 0.881639 -1.860868	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0002	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000008 0.692716 -2.522093	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0026	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.270333 0.510454 -3.378813	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0022	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000002 0.702358 -2.542346	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM853_Signal_Lamp	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.292821 -1.310592 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0011	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.011331 0.923405 -2.066976	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0007	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.631718 -2.289682	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0016	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000030 0.704904 -2.046776	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0002	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.001241 0.393995 -2.031705	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM607_Manometer	</identifier>
+				<transform>
+					<row0>	-1.491794 0.000000 0.120754 0.000000	</row0>
+					<row1>	0.000000 1.496673 0.000000 0.000000	</row1>
+					<row2>	-0.120754 0.000000 -1.491794 0.000000	</row2>
+					<row3>	0.012177 0.909246 -2.119662 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0008	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 1.034332 -1.529472	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0006	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.758404 -2.435419	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0028	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.503714 0.545425 -2.624477	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM020_Loading_machine_2	</identifier>
+				<transform>
+					<row0>	0.500000 0.000000 0.866025 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.866025 0.000000 0.500000 0.000000	</row2>
+					<row3>	0.412071 0.385778 -4.082962 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0024	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000000 0.702834 -2.925624	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0013	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.001067 0.891228 -2.370951	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0003	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000110 0.615110 -2.759068	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0005	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.679880 -1.797777	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0021	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 2.518883 -1.224164	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM019_Loading_machine	</identifier>
+				<transform>
+					<row0>	-0.707107 0.000000 0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.707107 0.000000 -0.707107 0.000000	</row2>
+					<row3>	-0.412073 0.385778 -4.082974 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM024_Night_Indicator	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	-0.000900 2.107321 -1.305586 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0003	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000217 0.398732 -2.155244	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0005	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.934072 -1.682036	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTB0023	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.697792 -2.995876	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM856_Mastheadlight	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 2.339248 -1.213192 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 -2.561280 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Ship_death_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 -0.629662 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+</GSB002_Tirpiz_1942_MidBack_ports.visual>

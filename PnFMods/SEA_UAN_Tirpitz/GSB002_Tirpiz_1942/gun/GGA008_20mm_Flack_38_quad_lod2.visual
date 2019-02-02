@@ -1,1 +1,83 @@
-<GGA008_20mm_Flack_38_quad_lod2.visual><boundingBox><min>-0.080437 -0.003622 -0.088817</min><max>0.080437 0.169524 0.105356</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Turret</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_gunFire1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>0.022478 0.147133 0.106825 1.000000</row3></transform></node><node><identifier>HP_gunFire2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>0.022478 0.163746 0.097234 1.000000</row3></transform></node><node><identifier>HP_gunFire3</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>-0.020922 0.147133 0.106825 1.000000</row3></transform></node><node><identifier>HP_gunFire4</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>-0.020922 0.163746 0.097234 1.000000</row3></transform></node><node><identifier>HP_gunFireEffect</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>0.000000 0.158034 0.100532 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Turret</node><geometry><vertices>Turret_lod2Shape.vertices</vertices><primitive>Turret_lod2Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunX</identifier><mfm>PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/a6f1b3f67fbeba902aacd5056c8f0a84.mfm</mfm></material></primitiveGroup></geometry></renderSet></GGA008_20mm_Flack_38_quad_lod2.visual>
+<GGA008_20mm_Flack_38_quad_lod2.visual>
+	<boundingBox>
+		<min>	-0.080437 -0.003622 -0.088817	</min>
+		<max>	0.080437 0.169524 0.105356	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Turret	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_gunFire1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.022478 0.147133 0.106825 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFire2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.022478 0.163746 0.097234 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFire3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	-0.020922 0.147133 0.106825 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFire4	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	-0.020922 0.163746 0.097234 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFireEffect	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.000000 0.158034 0.100532 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Turret	</node>
+		<geometry>
+			<vertices>	Turret_lod2Shape.vertices	</vertices>
+			<primitive>	Turret_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGA008_20mm_Flack_38_quad.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</GGA008_20mm_Flack_38_quad_lod2.visual>

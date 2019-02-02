@@ -1,1 +1,9 @@
-<GF002_10_5m_Rangefinders_with_mast.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF002_10_5m_Rangefinders_with_mast_lod1</parent><extent>6.000000</extent><materialNames /><castsShadow>false</castsShadow><nodefullVisual>PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF002_10_5m_Rangefinders_with_mast</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GF002_10_5m_Rangefinders_with_mast.model>
+<GF002_10_5m_Rangefinders_with_mast.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF002_10_5m_Rangefinders_with_mast_lod1	</parent>
+	<extent>	6.000000	</extent>
+	<materialNames />
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF002_10_5m_Rangefinders_with_mast	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GF002_10_5m_Rangefinders_with_mast.model>

@@ -1,0 +1,20 @@
+<GGS001_150mm_SKC_28_dead.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/default_ao.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGS001_150mm_SKC_28_dead_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGS001_150mm_SKC_28_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGS001_150mm_SKC_28_dead_a.tga	</Texture>
+	</property>
+</GGS001_150mm_SKC_28_dead.mfm>

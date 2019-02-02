@@ -1,0 +1,17 @@
+<GC001_Catapult_1_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/catapult/GC001_Catapult_1_a.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/catapult/default_ao.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/catapult/GC001_Catapult_1_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/catapult/GC001_Catapult_1_n.tga	</Texture>
+	</property>
+</GC001_Catapult_1_skinned.mfm>

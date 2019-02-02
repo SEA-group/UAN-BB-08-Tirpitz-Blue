@@ -1,1 +1,8 @@
-<GSB002_Tirpiz_1942_MidBack_ports.model><exporter>1.6</exporter><materialNames /><extent>200.000000</extent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/ship/GSB002_Tirpiz_1942_MidBack_ports</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GSB002_Tirpiz_1942_MidBack_ports.model>
+<GSB002_Tirpiz_1942_MidBack_ports.model>
+	<exporter>	1.6	</exporter>
+	<materialNames />
+	<extent>	200.000000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/ship/GSB002_Tirpiz_1942_MidBack_ports	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GSB002_Tirpiz_1942_MidBack_ports.model>

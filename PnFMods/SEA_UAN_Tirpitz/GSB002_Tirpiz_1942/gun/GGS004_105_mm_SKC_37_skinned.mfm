@@ -1,0 +1,20 @@
+<GGS004_105_mm_SKC_37_skinned.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGS004_105_mm_SKC_37_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGS004_105_mm_SKC_37_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGS004_105_mm_SKC_37_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/default_ao.tga	</Texture>
+	</property>
+</GGS004_105_mm_SKC_37_skinned.mfm>
