@@ -56,7 +56,7 @@
 			<primitive>	DirectorShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF001_10_5m_Rangefinders.mfm	</mfm>
 				</material>
 			</primitiveGroup>
