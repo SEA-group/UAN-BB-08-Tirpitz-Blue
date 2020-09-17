@@ -1,8 +1,0 @@
-<GGA008_20mm_Flack_38_quad_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGA008_20mm_Flack_38_quad_lod2	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGA008_20mm_Flack_38_quad_lod1	</nodefullVisual>
-	<castsShadow>	false	</castsShadow>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</GGA008_20mm_Flack_38_quad_lod1.model>

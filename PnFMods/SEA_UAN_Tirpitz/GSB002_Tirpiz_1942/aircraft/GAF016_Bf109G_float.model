@@ -1,6 +1,6 @@
 <GAF016_Bf109G_float.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/aircraft/GAF016_Bf109G_float_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/aircraft/lods/GAF016_Bf109G_float_lod1	</parent>
 	<extent>	5.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

@@ -2,7 +2,7 @@
 	<exporter>	1.6	</exporter>
 	<extent>	2.0000	</extent>
 	<materialNames />
-	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGA008_20mm_Flack_38_quad_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/lods/GGA008_20mm_Flack_38_quad_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGA008_20mm_Flack_38_quad	</nodefullVisual>
 	<castsShadow>	false	</castsShadow>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

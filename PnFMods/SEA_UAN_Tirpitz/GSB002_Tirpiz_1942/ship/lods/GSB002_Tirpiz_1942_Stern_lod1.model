@@ -1,0 +1,8 @@
+<GSB002_Tirpiz_1942_Stern_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/ship/lods/GSB002_Tirpiz_1942_Stern_lod2	</parent>
+	<extent>	23.000000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/ship/lods/GSB002_Tirpiz_1942_Stern_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GSB002_Tirpiz_1942_Stern_lod1.model>

@@ -1,6 +1,6 @@
 <GF003_7m_Rangefinder.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF003_7m_Rangefinder_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/lods/GF003_7m_Rangefinder_lod1	</parent>
 	<extent>	6.0000	</extent>
 	<materialNames />
 	<castsShadow>	false	</castsShadow>

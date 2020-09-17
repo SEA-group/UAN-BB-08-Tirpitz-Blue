@@ -1,6 +1,6 @@
 <GF024_10_5m_Rangefinders_combo.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF024_10_5m_Rangefinders_combo_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/lods/GF024_10_5m_Rangefinders_combo_lod1	</parent>
 	<extent>	4.000000	</extent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF024_10_5m_Rangefinders_combo	</nodefullVisual>
 	<castsShadow>	false	</castsShadow>
