@@ -38,7 +38,7 @@
 			<primitive>	Director_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
+					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF001_10_5m_Rangefinders.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -52,7 +52,7 @@
 			<primitive>	director2_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc1	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc1	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GM027_FUMO27.mfm	</mfm>
 				</material>
 			</primitiveGroup>

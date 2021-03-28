@@ -128,7 +128,7 @@
 			<primitive>	GC001_Catapilt_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/catapult/GC001_Catapult_1_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -142,7 +142,7 @@
 			<primitive>	Cradle_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/catapult/GC001_Catapult_1_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -56,7 +56,7 @@
 			<primitive>	DirectorShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
+					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF001_10_5m_Rangefinders.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -70,7 +70,7 @@
 			<primitive>	FUMO_23Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GF002_radar.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -84,7 +84,7 @@
 			<primitive>	FUMO_23_boxShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Net	</identifier>
+					<identifier>	SHIPMATX_PBS_Net	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/C010_Grid_8.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -98,7 +98,7 @@
 			<primitive>	director2_Dir_Mod.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc1	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc1	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/finder/GM027_FUMO27.mfm	</mfm>
 				</material>
 			</primitiveGroup>

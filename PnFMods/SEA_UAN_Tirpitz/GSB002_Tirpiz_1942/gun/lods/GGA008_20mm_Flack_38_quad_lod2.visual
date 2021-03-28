@@ -74,7 +74,7 @@
 			<primitive>	Turret_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Tirpitz/GSB002_Tirpiz_1942/gun/GGA008_20mm_Flack_38_quad.mfm	</mfm>
 				</material>
 			</primitiveGroup>
