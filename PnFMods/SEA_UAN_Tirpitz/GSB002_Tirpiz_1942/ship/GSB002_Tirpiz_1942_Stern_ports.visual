@@ -1,8 +1,4 @@
 <GSB002_Tirpiz_1942_Stern_ports.visual>
-	<boundingBox>
-		<min>	-0.066700 -0.066700 -0.066700	</min>
-		<max>	0.066700 0.066700 0.066700	</max>
-	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
 		<transform>
@@ -14,10 +10,10 @@
 		<node>
 			<identifier>	Stern_ports	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 			</transform>
 			<node>
 				<identifier>	HP_FX_Fire_4	</identifier>
@@ -67,102 +63,115 @@
 			<node>
 				<identifier>	HP_GGM_4	</identifier>
 				<transform>
-					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
-					<row3>	0.000000 0.454152 -4.977966 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM094_Propeller3_L	</identifier>
-				<transform>
-					<row0>	0.999999 -0.000017 -0.001727 0.000000	</row0>
-					<row1>	-0.000017 0.999814 -0.019270 0.000000	</row1>
-					<row2>	0.001727 0.019270 0.999813 0.000000	</row2>
-					<row3>	-0.400267 -0.450625 -6.437217 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM095_Propeller3_R	</identifier>
-				<transform>
-					<row0>	0.999988 -0.000039 -0.004946 0.000000	</row0>
-					<row1>	-0.000039 0.999874 -0.015873 0.000000	</row1>
-					<row2>	0.004946 0.015873 0.999862 0.000000	</row2>
-					<row3>	0.400850 -0.450606 -6.437229 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM004_Barbette_Out	</identifier>
-				<transform>
-					<row0>	4.088058 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.742424 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 4.088058 0.000000	</row2>
-					<row3>	0.000000 0.440261 -4.977966 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTB0014	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.468090 -6.926199	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GTB0059	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.467448 -6.972965	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM856_Mastheadlight	</identifier>
-				<transform>
-					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
-					<row3>	0.000000 0.504133 -8.262653 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM094_Propeller3_L_INDEX_1	</identifier>
-				<transform>
-					<row0>	1.143117 0.000000 -0.000002 0.000000	</row0>
-					<row1>	0.000000 1.143117 0.000000 0.000000	</row1>
-					<row2>	0.000002 0.000000 1.143117 0.000000	</row2>
-					<row3>	0.000000 -0.480841 -6.912026 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM004_Reels_2	</identifier>
-				<transform>
-					<row0>	0.687029 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.687029 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.687029 0.000000	</row2>
-					<row3>	0.000000 0.425317 -7.211214 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM008_Loudspeaker	</identifier>
-				<transform>
-					<row0>	-2.318940 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 2.318940 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 -2.318940 0.000000	</row2>
-					<row3>	0.031930 0.391427 -5.422861 1.000000	</row3>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.0000 0.4542 -4.9780 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
 				<identifier>	HP_Ship_death_3	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 -4.659547 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 -4.6595 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM004_Barbette_Out	</identifier>
+				<transform>
+					<row0>	4.0881 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.7424 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 4.0881 0.0000	</row2>
+					<row3>	0.0000 0.4403 -4.9780 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM094_Propeller3_L	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 -0.0017 0.0000	</row0>
+					<row1>	0.0000 0.9998 -0.0193 0.0000	</row1>
+					<row2>	0.0017 0.0193 0.9998 0.0000	</row2>
+					<row3>	-0.4003 -0.4506 -6.4372 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM094_Propeller3_L_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.1431 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.1431 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.1431 0.0000	</row2>
+					<row3>	0.0000 -0.4808 -6.9120 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM095_Propeller3_R	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 -0.0049 0.0000	</row0>
+					<row1>	0.0000 0.9999 -0.0159 0.0000	</row1>
+					<row2>	0.0049 0.0159 0.9999 0.0000	</row2>
+					<row3>	0.4008 -0.4506 -6.4372 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM007_LifeBuoy	</identifier>
+				<transform>
+					<row0>	0.9784 0.0000 0.2067 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.2067 0.0000 0.9784 0.0000	</row2>
+					<row3>	-0.6329 0.4594 -6.4750 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM007_LifeBuoy_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.9609 0.0000 0.2769 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.2769 0.0000 0.9609 0.0000	</row2>
+					<row3>	-0.3906 0.4755 -7.4709 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM007_LifeBuoy_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.9609 0.0000 -0.2769 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.2769 0.0000 0.9609 0.0000	</row2>
+					<row3>	0.3906 0.4755 -7.4709 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM007_LifeBuoy_INDEX_3	</identifier>
+				<transform>
+					<row0>	0.9784 0.0000 -0.2067 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.2067 0.0000 0.9784 0.0000	</row2>
+					<row3>	0.6329 0.4594 -6.4750 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM008_Loudspeaker	</identifier>
+				<transform>
+					<row0>	-2.3189 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 2.3189 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -2.3189 0.0000	</row2>
+					<row3>	0.0319 0.3914 -5.4229 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM856_Mastheadlight	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.0000 0.5041 -8.2627 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
 	</node>
+	<boundingBox>
+		<min>	-0.0667 -0.0667 -0.0667	</min>
+		<max>	0.0667 0.0667 0.0667	</max>
+	</boundingBox>
 </GSB002_Tirpiz_1942_Stern_ports.visual>
